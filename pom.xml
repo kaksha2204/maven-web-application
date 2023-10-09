@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.46.222:9980/mithuntechnologies/repository/icicibank-release/</url>
+	      <url>http://13.234.115.151:8090/mithuntech/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.46.222:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
+	      <url>http://13.234.115.151:8090/mithuntech/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
