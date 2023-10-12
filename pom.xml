@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.237.171:8090/mithuntech/repository/wallmart-release/</url>
+	      <url>http://13.233.237.171.:8090/mithuntech/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
